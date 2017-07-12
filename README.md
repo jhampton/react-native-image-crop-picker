@@ -1,5 +1,11 @@
 # react-native-image-crop-picker
 iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
+*This is a fork from 0.12.4 (supporting React Native < 0.40.0 ONLY)*
+
+## Changes
+
+* Modified Header search paths for iOS to properly reference react native
+* Fixed XCode 8.3.x error about duplicate modules names on the modulemap
 
 ## Result
 
